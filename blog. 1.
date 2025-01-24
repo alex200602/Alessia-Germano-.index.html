@@ -268,3 +268,6 @@
     </script>
 </body>
 </html>
+git add .
+git commit -m "Aggiunge miglioramenti al blog"
+git push origin main
